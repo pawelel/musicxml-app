@@ -1,0 +1,15 @@
+{
+  "name": "musicxml-player",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "tone": "^14.9.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
